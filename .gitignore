@@ -1,0 +1,5 @@
+src/Main.java
+*.iml
+*.vcs
+.idea/
+out/
