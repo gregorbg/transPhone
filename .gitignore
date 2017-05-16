@@ -1,4 +1,5 @@
 src/Main.java
+src/META-INF/
 *.iml
 *.vcs
 .idea/
